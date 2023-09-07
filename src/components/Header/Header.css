@@ -1,0 +1,20 @@
+.primaryNav {
+    background-color: #61557a;
+    padding: 10px;
+    display: flex;
+}
+
+.links {
+    padding-left: 35px;
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+img {
+    width: 40px;
+}
