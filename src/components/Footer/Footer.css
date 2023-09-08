@@ -1,0 +1,30 @@
+/* Footer styles */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Footer links */
+.footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: #ff5722;
+    /* Change link color on hover */
+}
+
+/* Copyright text */
+.footer p {
+    margin: 10px 0;
+}
+
+/* Center text within the footer */
+.center-text {
+    text-align: center;
+}
